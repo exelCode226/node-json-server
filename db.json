@@ -1,0 +1,52 @@
+{
+    "profesores":[
+        {
+            "nombre":"Exel",
+            "apellido":"Code",
+            "materias":[
+                {
+                "nombre":"Nodejs desde cero"
+
+                },
+                {
+                "nombre":"React desde cero"
+
+                },
+                {
+                "nombre":"Javascript desde cero"
+
+                }
+            ]
+        }
+    ],
+    "alumnos":[
+        {
+            "nombre":"maria",
+            "apellido":"rodriguez",
+            "promedio":10
+        },
+        {
+            "nombre":"alfonsina",
+            "apellido":"storni",
+            "promedio":10
+        }
+        
+    ],
+    "cursos":[
+        {
+            "nombre":"Javascript desde cero",
+            "duracion":7,
+            "dificultad":"intermedio"
+        },
+        {
+            "nombre":"Reactjs desde cero",
+            "duracion":8,
+            "dificultad":"intermedio"
+        },
+        {
+            "nombre":"Angular desde cero",
+            "duracion":8,
+            "dificultad":"alta"
+        }
+    ]
+}
